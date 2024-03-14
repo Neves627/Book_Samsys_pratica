@@ -1,0 +1,6 @@
+@Samsys_Book_Practice_HostAddress = http://localhost:5163
+
+GET {{Samsys_Book_Practice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

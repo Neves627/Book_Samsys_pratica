@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Samsys_Book_Practice.props" />
+</Project>
