@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\exemplo_estudo\\book_samsys_pratica\\samsys_book_practice\\samsys_book_practice\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|solutionrelative:samsys_book_practice\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\exemplo_estudo\\book_samsys_pratica\\samsys_book_practice\\samsys_book_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|solutionrelative:samsys_book_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|solutionrelative:samsys_book_practice\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\exemplo_estudo\\book_samsys_pratica\\samsys_book_practice\\samsys_book_practice\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|solutionrelative:samsys_book_practice\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|c:\\users\\diogo\\desktop\\estagio\\pratica\\exemplo_estudo\\book_samsys_pratica\\samsys_book_practice\\samsys_book_practice\\dtos\\bookpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAFE0EE7-11EC-4C3E-8021-CA004381E54F}|Samsys_Book_Practice\\Samsys_Book_Practice.csproj|solutionrelative:samsys_book_practice\\dtos\\bookpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\Controllers\\BooksController.cs",
@@ -114,12 +114,11 @@
               "RelativeToolTip": "Samsys_Book_Practice\\Controllers\\BooksController.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAuwBIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T16:18:59.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T16:18:59.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Interfaces\\Books\\IBookService.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\Interfaces\\Books\\IBookService.cs",
@@ -127,12 +126,11 @@
               "RelativeToolTip": "Samsys_Book_Practice\\Interfaces\\Books\\IBookService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:39:53.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T15:39:53.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\Services\\BookService.cs",
@@ -140,25 +138,24 @@
               "RelativeToolTip": "Samsys_Book_Practice\\Services\\BookService.cs",
               "ViewState": "AQIAAMUAAAAAAAAAAAAswN0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:15:25.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T15:15:25.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Program.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\Program.cs",
               "ToolTip": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Program.cs",
               "RelativeToolTip": "Samsys_Book_Practice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T12:50:24.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Interfaces\\Books\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\Interfaces\\Books\\IBookRepository.cs",
@@ -170,19 +167,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\Repositories\\BookRepository.cs",
               "ToolTip": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "Samsys_Book_Practice\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAA7wDkAAAAiAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T14:37:06.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "Samsys_Book_Practice\\Entity\\Book.cs",
+              "ToolTip": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Entity\\Book.cs",
+              "RelativeToolTip": "Samsys_Book_Practice\\Entity\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:57:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MessagingHelper.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\DTOs\\MessagingHelper.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\DTOs\\MessagingHelper.cs",
@@ -218,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\DTOs\\BookDTO.cs",
               "RelativeDocumentMoniker": "Samsys_Book_Practice\\DTOs\\BookDTO.cs",
@@ -239,18 +249,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-14T13:01:12.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Entity\\Book.cs",
-              "RelativeDocumentMoniker": "Samsys_Book_Practice\\Entity\\Book.cs",
-              "ToolTip": "C:\\Users\\diogo\\Desktop\\Estagio\\pratica\\Exemplo_estudo\\Book_Samsys_pratica\\Samsys_Book_Practice\\Samsys_Book_Practice\\Entity\\Book.cs",
-              "RelativeToolTip": "Samsys_Book_Practice\\Entity\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:57:22.615Z"
             },
             {
               "$type": "Document",
